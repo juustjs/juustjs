@@ -11,8 +11,8 @@
 
  <div>
   <a href="https://github.com/devJuhS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devJuhS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJuhS&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juustjs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juustjs&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
