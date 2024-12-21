@@ -2,7 +2,7 @@
 
 
 - 📚 Atualmente estudante do 4° periodo de Ciencia da computação
-- 💻 Tenho interesse na área de desenvolvimento em back-end, ciência de dados e machine learning
+- 💻 Tenho interesse na área de desenvolvimento em back-end, machine learning, fullstack
 - 🌱 Estudando node.js, python e react
 - 😄 Pronouns: ela/dela
 - 📍 Manaus - Amazonas 
