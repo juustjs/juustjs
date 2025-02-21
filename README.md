@@ -11,7 +11,7 @@
 ## Bem vindo ao meu GitHub 🌎
 
  <div>
-  <a href="https://github.com/devJuhS">
+  <a href="https://github.com/juustjs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juustjs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juustjs&layout=compact&langs_count=16&theme=radical"/>
 </div>
@@ -24,7 +24,7 @@
   <img align="center" alt="ju-jupiter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="ju-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ju-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="ju-discord" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
 ##
