@@ -1,10 +1,10 @@
 ## Olá eu sou Juliana Salgado🐦‍🔥
 
 
-- 📚 Atualmente estudante do 4° periodo de Ciencia da computação
+- 📚 Atualmente estudante do 6° periodo de Ciencia da computação
 - 💻 Tenho interesse na área de desenvolvimento em back-end, machine learning, fullstack
 - 📖 Atualização de Script no github duas vezes na semana
-- 🌱 Estudando node.js, python e react
+- 🌱 Estudando python, machine learing, redes neurais  
 - 😄 Pronouns: ela/dela
 - 📍 Manaus - Amazonas 
 
